@@ -8,8 +8,8 @@ Combination of various to analyze abundance of KFERQ-like motifs in lists of pro
 
 ___
 **Requirements:**
-Python v3.7.X
-numpy v1.18.1
-matplotlib v3.1.3
-pandas v1.1.1
-tqdm v4.42.1
+* Python v3.7.X
+* numpy v1.18.1
+* matplotlib v3.1.3
+* pandas v1.1.1
+* tqdm v4.42.1
